@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+*{
+	color:red;
+	padding:0;
+	margin-bottom:1rem;
+	
+	
+}
+
+form{
+	width:100vw;
+	height:100vh;
+	display:flex;
+	flex-direction:row;
+	margin:0 auto;
+	background:black;
+	margin-left:5rem 
+	
+}
+
+.container{
+	display:flex;
+	
+}
